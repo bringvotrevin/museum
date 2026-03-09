@@ -1,0 +1,23 @@
+id,museum,country,city,total_area_sqm,collection_size,num_employees,admission_free_yn,adult_price_local,adult_price_local_usd,has_dual_pricing,foreign_price_usd,price_change_history
+1001,Musée du Louvre,France,Paris,210000,615797,2213,N,EUR 22,25.52,Y,37.12,"2017: EUR 15 → 2024: EUR 17→EUR 22 → 2026: EUR 32 (non-EU)"
+1002,Vatican Museums,Vatican City,Vatican City,55000,70000,,N,EUR 20,23.20,N,23.20,"2014: EUR 16 → 2024: EUR 17 → 2025: EUR 20"
+1003,British Museum,United Kingdom,London,92000,8000000,1300,Y,GBP 0,0,N,0,Free since founding (special exhibitions charged)
+1004,Metropolitan Museum of Art,United States,New York,190000,2000000,2000,N,USD 30,30.00,Y,30.00,"2011: $25 suggested → 2018: $25 mandatory (non-NY) → 2022: $30"
+1005,Tate Modern,United Kingdom,London,34500,70000,1200,Y,GBP 0,0,N,0,Free (special exhibitions GBP 10-25)
+1006,Shanghai Museum East,China,Shanghai,113000,,,N,CNY 0,0,N,0,Opened 2024 - Free
+1007,National Gallery of Art,United States,Washington DC,39000,150000,1100,Y,USD 0,0,N,0,Free since founding (federal funding)
+1008,National Museum of Korea,South Korea,Seoul,295551,420000,,Y,KRW 0,0,N,0,Free (special exhibitions charged separately)
+1009,Musée d'Orsay,France,Paris,57400,150000,700,N,EUR 16,18.56,N,18.56,"2019: EUR 14 → 2022: EUR 16"
+1010,Museo Nacional de Antropología,Mexico,Mexico City,44000,600000,,N,MXN 90,5.40,Y,5.40,Free for Mexican nationals on Sundays
+1011,State Russian Museum,Russia,St Petersburg,40000,400000,,N,RUB 500,5.50,Y,5.50,Dual pricing for foreigners
+1012,State Hermitage Museum,Russia,St Petersburg,66842,3000000,2500,N,RUB 500,5.50,Y,11.00,"Foreigners: RUB 1000; Russians: RUB 500; Free 1st Thursday"
+1013,Victoria and Albert Museum,United Kingdom,London,51000,2300000,900,Y,GBP 0,0,N,0,Free (special exhibitions GBP 12-20)
+1014,Museo Nacional del Prado,Spain,Madrid,41995,35000,700,N,EUR 15,17.40,N,17.40,"2015: EUR 14 → 2017: EUR 15"
+1015,Centre Pompidou,France,Paris,103305,120000,1100,N,EUR 15,17.40,N,17.40,"2020: EUR 14 → 2023: EUR 15 (closed for renovation 2025-2030)"
+1016,Tokyo National Museum,Japan,Tokyo,110000,120000,300,N,JPY 1000,6.58,N,6.58,"2019: JPY 620 → 2024: JPY 1000"
+1017,National Museum of Scotland,United Kingdom,Edinburgh,16000,12000000,600,Y,GBP 0,0,N,0,Free since 2001 (was charged before)
+1018,MMCA Seoul,South Korea,Seoul,52125,9500,,N,KRW 4000,2.99,N,2.99,"Varies by exhibition; permanent collection free"
+1019,Museum of New Zealand Te Papa Tongarewa,New Zealand,Wellington,36000,800000,500,Y,NZD 0,0,N,0,Free (special exhibitions NZD 20-25)
+1020,Museo Egizio,Italy,Turin,10000,40000,250,N,EUR 15,17.40,N,17.40,"2015: EUR 7.50 → 2024: EUR 15"
+1021,National Folk Museum of Korea,South Korea,Seoul,11462,100000,,Y,KRW 0,0,N,0,"Free (inside Gyeongbokgung; palace admission separate)"
+1022,Gyeongju National Museum,South Korea,Gyeongju,80000,130000,,Y,KRW 0,0,N,0,Free
