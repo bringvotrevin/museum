@@ -1,16 +1,16 @@
-city,country,region,city_population,country_gdp_per_capita_usd,big_mac_index
-St Petersburg,Russia,Europe,5400000,13006,2.56
-Shanghai,China,Asia,24900000,12720,3.69
-Seoul,South Korea,Asia,9700000,33150,3.72
-Gyeongju,South Korea,Asia,250000,33150,3.72
-Wellington,New Zealand,Oceania,215000,48070,5.22
-Washington DC,United States,Americas,670000,82030,6.09
-Mexico City,Mexico,Americas,9200000,11091,6.16
-Madrid,Spain,Europe,3300000,32280,6.77
-Vatican City,Vatican City,Europe,800,N/A,6.96
-Turin,Italy,Europe,850000,37146,6.96
-Edinburgh,United Kingdom,Europe,530000,48913,7.06
-London,United Kingdom,Europe,8800000,48913,7.06
-Paris,France,Europe,2161000,44408,7.59
-New York,United States,Americas,8300000,82030,6.09
-Tokyo,Japan,Asia,14000000,33950,3.05
+city,country,region,city_population,country_gdp_per_capita,city_gdp_per_capita,big_mac_index
+St Petersburg,Russia,Europe,5600000,14391,20000,2.56
+Shanghai,China,Asia,24900000,13136,27000,3.69
+Seoul,South Korea,Asia,9400000,34165,45000,3.72
+Gyeongju,South Korea,Asia,250000,34165,32000,3.72
+Wellington,New Zealand,Oceania,215000,48531,50000,5.22
+Washington DC,United States,Americas,678000,85373,95000,6.09
+Mexico City,Mexico,Americas,9200000,15249,25000,6.16
+Madrid,Spain,Europe,3300000,34045,40000,6.77
+Vatican City,Vatican City,Europe,800,N/A,38000,6.96
+Turin,Italy,Europe,850000,39580,38000,6.96
+Edinburgh,United Kingdom,Europe,530000,51075,50000,7.06
+London,United Kingdom,Europe,8800000,51075,80000,7.06
+Paris,France,Europe,2161000,47359,85000,7.59
+New York,United States,Americas,8300000,85373,100000,6.09
+Tokyo,Japan,Asia,14000000,33138,55000,3.05

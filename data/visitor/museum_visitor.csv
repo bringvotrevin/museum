@@ -1,141 +1,141 @@
-Museum,City,Year,Rank,Total
-Musée du Louvre,Paris,2016,1,"7,400,000"
-Metropolitan Museum of Art,New York,2016,2,"7,006,859"
-British Museum,London,2016,3,"6,420,395"
-National Gallery,London,2016,4,"6,262,839"
-Vatican Museums,Vatican City,2016,5,"6,066,649"
-Tate Modern,London,2016,6,"5,839,197"
-National Palace Museum,Taipei,2016,7,"4,665,725"
-National Gallery of Art,"Washington, DC",2016,8,"4,261,391"
-State Hermitage Museum,St Petersburg,2016,9,"4,119,103"
-Reina Sofía,Madrid,2016,10,"3,646,598"
-Musée du Louvre,Paris,2017,1,"8,100,000"
-National Museum of China,Beijing,2017,2,"8,062,625"
-Metropolitan Museum of Art,New York,2017,3,"6,692,909"
-Vatican Museums,Vatican City,2017,4,"6,427,277"
-British Museum,London,2017,5,"5,906,000"
-Tate Modern,London,2017,6,"5,656,004"
-National Gallery of Art,"Washington, DC",2017,7,"5,232,277"
-National Gallery,London,2017,8,"5,229,192"
-National Palace Museum,Taipei,2017,9,"4,436,118"
-State Hermitage Museum,St Petersburg,2017,10,"4,200,000"
-Musée du Louvre,Paris,2018,1,"10,200,000"
-National Museum of China,Beijing,2018,2,"8,610,092"
-Metropolitan Museum of Art,New York,2018,3,"6,953,927"
-Vatican Museums,Vatican City,2018,4,"6,756,186"
-Tate Modern,London,2018,5,"5,868,562"
-British Museum,London,2018,6,"5,820,000"
-National Gallery,London,2018,7,"5,735,831"
-National Gallery of Art,"Washington, DC",2018,8,"4,404,212"
-State Hermitage Museum,St Petersburg,2018,9,"4,220,000"
-Victoria and Albert Museum,London,2018,10,"3,967,566"
-Musée du Louvre,Paris,2019,1,"9,600,000"
-National Museum of China,Beijing,2019,2,"7,390,000"
-Vatican Museums,Vatican City,2019,3,"6,882,931"
-Metropolitan Museum of Art,New York,2019,4,"6,479,548"
-British Museum,London,2019,5,"6,239,983"
-Tate Modern,London,2019,6,"6,098,340"
-National Gallery,London,2019,7,"6,011,007"
-State Hermitage Museum,St Petersburg,2019,8,"4,956,529"
-Reina Sofía,Madrid,2019,9,"4,425,699"
-National Gallery of Art,"Washington, DC",2019,10,"4,074,403"
-Musée du Louvre,Paris,2020,1,"2,700,000"
-National Museum of China,Beijing,2020,2,"1,600,000"
-Tate Modern,London,2020,3,"1,432,991"
-Vatican Museums,Vatican City,2020,4,"1,300,000"
-British Museum,London,2020,5,"1,275,466"
-Museo Reina Sofía,Madrid,2020,6,"1,248,486"
-State Russian Museum,St Petersburg,2020,7,"1,203,324"
-National Gallery,London,2020,8,"1,197,143"
-Metropolitan Museum of Art,New York,2020,9,"1,124,759"
-21st Century Museum of Contemporary Art,Kanazawa,2020,10,"971,256"
-State Hermitage Museum,St Petersburg,2020,11,"968,604"
-Centre Pompidou,Paris,2020,12,"912,803"
-State Tretyakov Gallery,Moscow,2020,13,"894,374"
-Victoria and Albert Museum,London,2020,14,"872,240"
-Musée d'Orsay,Paris,2020,15,"867,274"
-Museo Nacional del Prado,Madrid,2020,16,"852,161"
-Museum of New Zealand Te Papa Tongarewa,Wellington,2020,17,"837,664"
-Centro Cultural Banco do Brasil,Rio de Janeiro,2020,18,"790,357"
-National Museum of Korea,Seoul,2020,19,"773,621"
-National Gallery Singapore,Singapore,2020,20,"736,132"
-Musée du Louvre,Paris,2021,1,"2,825,000"
-State Russian Museum,St Petersburg,2021,2,"2,260,231"
-Multimedia Art Museum,Moscow,2021,3,"2,242,405"
-Metropolitan Museum of Art,New York,2021,4,"1,958,000"
-National Gallery of Art,"Washington, DC",2021,5,"1,704,606"
-State Hermitage Museum,St Petersburg,2021,6,"1,649,443"
-Museo Reina Sofía,Madrid,2021,7,"1,643,108"
-Vatican Museums,Vatican City,2021,8,"1,612,530"
-State Tretyakov Gallery,Moscow,2021,9,"1,580,819"
-Centre Pompidou,Paris,2021,10,"1,501,040"
-British Museum,London,2021,11,"1,327,120"
-National Museum of Korea,Seoul,2021,12,"1,262,562"
-Museo Nacional del Prado,Madrid,2021,13,"1,175,296"
-Royal Castle,Warsaw,2021,14,"1,168,821"
-Museum of Modern Art,New York,2021,15,"1,160,686"
-Tate Modern,London,2021,16,"1,156,037"
-Tokyo Metropolitan Art Museum,Tokyo,2021,17,"1,049,183"
-Musée d'Orsay,Paris,2021,18,"1,044,365"
-Somerset House,London,2021,19,"984,978"
-Galleria degli Uffizi,Florence,2021,20,"969,695"
-Musée du Louvre,Paris,2022,1,"7,726,321"
-Vatican Museums,Vatican City,2022,2,"5,080,866"
-British Museum,London,2022,3,"4,097,253"
-Tate Modern,London,2022,4,"3,883,160"
-National Museum of Korea,Seoul,2022,5,"3,411,381"
-Musée d'Orsay,Paris,2022,6,"3,270,182"
-National Gallery of Art,"Washington, DC",2022,7,"3,256,433"
-Metropolitan Museum of Art,New York,2022,8,"3,208,832"
-Centre Pompidou,Paris,2022,9,"3,009,570"
-State Hermitage Museum,St Petersburg,2022,10,"2,812,913"
-National Gallery,London,2022,11,"2,727,119"
-State Russian Museum,St Petersburg,2022,12,"2,651,688"
-Museo Nacional del Prado,Madrid,2022,13,"2,456,724"
-Victoria and Albert Museum,London,2022,14,"2,370,261"
-Somerset House,London,2022,15,"2,346,580"
-Galleria degli Uffizi,Florence,2022,16,"2,222,692"
-Museum of Modern Art (MoMA),New York,2022,17,"2,190,440"
-M+,Hong Kong,2022,18,"2,034,331"
-National Museum of Scotland,Edinburgh,2022,19,"1,973,751"
-State Tretyakov Gallery,Moscow,2022,20,"1,910,000"
-Musée du Louvre,Paris,2023,1,"8,860,000"
-Vatican Museums,Vatican City,2023,2,"6,764,858"
-British Museum,London,2023,3,"5,820,860"
-Metropolitan Museum of Art,New York,2023,4,"5,364,000"
-Tate Modern,London,2023,5,"4,742,038"
-National Museum of Korea,Seoul,2023,6,"4,180,285"
-Musée d'Orsay,Paris,2023,7,"3,871,498"
-National Gallery of Art,"Washington, DC",2023,8,"3,829,812"
-Museo Nacional del Prado,Madrid,2023,9,"3,337,550"
-State Hermitage Museum,St Petersburg,2023,10,"3,273,753"
-Victoria and Albert Museum,London,2023,11,"3,110,000"
-National Gallery,London,2023,12,"3,096,508"
-State Russian Museum,St Petersburg,2023,13,"2,900,000"
-Museum of Modern Art (MoMA),New York,2023,14,"2,839,509"
-M+,Hong Kong,2023,15,"2,797,616"
-Somerset House,London,2023,16,"2,727,677"
-Galleria degli Uffizi,Florence,2023,17,"2,717,857"
-Rijksmuseum,Amsterdam,2023,18,"2,702,824"
-Centre Pompidou,Paris,2023,19,"2,621,696"
-Royal Wawel Castle,Krakow,2023,20,"2,561,000"
-Musée du Louvre,Paris,2024,1,"8,737,050"
-Vatican Museums,Vatican City,2024,2,"6,825,436"
-British Museum,London,2024,3,"6,479,952"
-Metropolitan Museum of Art,New York,2024,4,"5,727,258"
-Tate Modern,London,2024,5,"4,603,025"
-Shanghai Museum East,Shanghai,2024,6,"4,234,046"
-National Gallery of Art,"Washington, DC",2024,7,"3,936,543"
-National Museum of Korea,Seoul,2024,8,"3,788,785"
-Musée d'Orsay,Paris,2024,9,"3,751,141"
-Museo Nacional de Antropología,Mexico City,2024,10,"3,700,000"
-State Russian Museum,St Petersburg,2024,11,"3,611,899"
-State Hermitage Museum,St Petersburg,2024,12,"3,563,590"
-Victoria and Albert Museum,London,2024,13,"3,525,700"
-Museo Nacional del Prado,Madrid,2024,14,"3,457,057"
-Centre Pompidou,Paris,2024,15,"3,204,369"
-National Gallery,London,2024,16,"3,203,451"
-Royal Wawel Castle,Krakow,2024,17,"3,100,000"
-Somerset House,London,2024,18,"3,074,736"
-Galleria degli Uffizi,Florence,2024,19,"2,908,828"
-Museum of Modern Art (MoMA),New York,2024,20,"2,657,377"
+id,year,rank,total,museum,museum_id,city
+1,2016,1,"7,400,000",Musée du Louvre,1001,Paris
+2,2016,2,"7,006,859",Metropolitan Museum of Art,1004,New York
+3,2016,3,"6,420,395",British Museum,1003,London
+4,2016,4,"6,262,839",National Gallery,1024,London
+5,2016,5,"6,066,649",Vatican Museums,1002,Vatican City
+6,2016,6,"5,839,197",Tate Modern,1005,London
+7,2016,7,"4,665,725",National Palace Museum,,Taipei
+8,2016,8,"4,261,391",National Gallery of Art,1007,"Washington, DC"
+9,2016,9,"4,119,103",State Hermitage Museum,1012,St Petersburg
+10,2016,10,"3,646,598",Reina Sofía,,Madrid
+11,2017,1,"8,100,000",Musée du Louvre,1001,Paris
+12,2017,2,"8,062,625",National Museum of China,,Beijing
+13,2017,3,"6,692,909",Metropolitan Museum of Art,1004,New York
+14,2017,4,"6,427,277",Vatican Museums,1002,Vatican City
+15,2017,5,"5,906,000",British Museum,1003,London
+16,2017,6,"5,656,004",Tate Modern,1005,London
+17,2017,7,"5,232,277",National Gallery of Art,1007,"Washington, DC"
+18,2017,8,"5,229,192",National Gallery,1024,London
+19,2017,9,"4,436,118",National Palace Museum,,Taipei
+20,2017,10,"4,200,000",State Hermitage Museum,1012,St Petersburg
+21,2018,1,"10,200,000",Musée du Louvre,1001,Paris
+22,2018,2,"8,610,092",National Museum of China,,Beijing
+23,2018,3,"6,953,927",Metropolitan Museum of Art,1004,New York
+24,2018,4,"6,756,186",Vatican Museums,1002,Vatican City
+25,2018,5,"5,868,562",Tate Modern,1005,London
+26,2018,6,"5,820,000",British Museum,1003,London
+27,2018,7,"5,735,831",National Gallery,1024,London
+28,2018,8,"4,404,212",National Gallery of Art,1007,"Washington, DC"
+29,2018,9,"4,220,000",State Hermitage Museum,1012,St Petersburg
+30,2018,10,"3,967,566",Victoria and Albert Museum,1013,London
+31,2019,1,"9,600,000",Musée du Louvre,1001,Paris
+32,2019,2,"7,390,000",National Museum of China,,Beijing
+33,2019,3,"6,882,931",Vatican Museums,1002,Vatican City
+34,2019,4,"6,479,548",Metropolitan Museum of Art,1004,New York
+35,2019,5,"6,239,983",British Museum,1003,London
+36,2019,6,"6,098,340",Tate Modern,1005,London
+37,2019,7,"6,011,007",National Gallery,1024,London
+38,2019,8,"4,956,529",State Hermitage Museum,1012,St Petersburg
+39,2019,9,"4,425,699",Reina Sofía,,Madrid
+40,2019,10,"4,074,403",National Gallery of Art,1007,"Washington, DC"
+41,2020,1,"2,700,000",Musée du Louvre,1001,Paris
+42,2020,2,"1,600,000",National Museum of China,,Beijing
+43,2020,3,"1,432,991",Tate Modern,1005,London
+44,2020,4,"1,300,000",Vatican Museums,1002,Vatican City
+45,2020,5,"1,275,466",British Museum,1003,London
+46,2020,6,"1,248,486",Museo Reina Sofía,,Madrid
+47,2020,7,"1,203,324",State Russian Museum,1011,St Petersburg
+48,2020,8,"1,197,143",National Gallery,1024,London
+49,2020,9,"1,124,759",Metropolitan Museum of Art,1004,New York
+50,2020,10,"971,256",21st Century Museum of Contemporary Art,,Kanazawa
+51,2020,11,"968,604",State Hermitage Museum,1012,St Petersburg
+52,2020,12,"912,803",Centre Pompidou,1015,Paris
+53,2020,13,"894,374",State Tretyakov Gallery,,Moscow
+54,2020,14,"872,240",Victoria and Albert Museum,1013,London
+55,2020,15,"867,274",Musée d'Orsay,1009,Paris
+56,2020,16,"852,161",Museo Nacional del Prado,1014,Madrid
+57,2020,17,"837,664",Museum of New Zealand Te Papa Tongarewa,1019,Wellington
+58,2020,18,"790,357",Centro Cultural Banco do Brasil,,Rio de Janeiro
+59,2020,19,"773,621",National Museum of Korea,1008,Seoul
+60,2020,20,"736,132",National Gallery Singapore,,Singapore
+61,2021,1,"2,825,000",Musée du Louvre,1001,Paris
+62,2021,2,"2,260,231",State Russian Museum,1011,St Petersburg
+63,2021,3,"2,242,405",Multimedia Art Museum,,Moscow
+64,2021,4,"1,958,000",Metropolitan Museum of Art,1004,New York
+65,2021,5,"1,704,606",National Gallery of Art,1007,"Washington, DC"
+66,2021,6,"1,649,443",State Hermitage Museum,1012,St Petersburg
+67,2021,7,"1,643,108",Museo Reina Sofía,,Madrid
+68,2021,8,"1,612,530",Vatican Museums,1002,Vatican City
+69,2021,9,"1,580,819",State Tretyakov Gallery,,Moscow
+70,2021,10,"1,501,040",Centre Pompidou,1015,Paris
+71,2021,11,"1,327,120",British Museum,1003,London
+72,2021,12,"1,262,562",National Museum of Korea,1008,Seoul
+73,2021,13,"1,175,296",Museo Nacional del Prado,1014,Madrid
+74,2021,14,"1,168,821",Royal Castle,,Warsaw
+75,2021,15,"1,160,686",Museum of Modern Art,1023,New York
+76,2021,16,"1,156,037",Tate Modern,1005,London
+77,2021,17,"1,049,183",Tokyo Metropolitan Art Museum,,Tokyo
+78,2021,18,"1,044,365",Musée d'Orsay,1009,Paris
+79,2021,19,"984,978",Somerset House,,London
+80,2021,20,"969,695",Galleria degli Uffizi,,Florence
+81,2022,1,"7,726,321",Musée du Louvre,1001,Paris
+82,2022,2,"5,080,866",Vatican Museums,1002,Vatican City
+83,2022,3,"4,097,253",British Museum,1003,London
+84,2022,4,"3,883,160",Tate Modern,1005,London
+85,2022,5,"3,411,381",National Museum of Korea,1008,Seoul
+86,2022,6,"3,270,182",Musée d'Orsay,1009,Paris
+87,2022,7,"3,256,433",National Gallery of Art,1007,"Washington, DC"
+88,2022,8,"3,208,832",Metropolitan Museum of Art,1004,New York
+89,2022,9,"3,009,570",Centre Pompidou,1015,Paris
+90,2022,10,"2,812,913",State Hermitage Museum,1012,St Petersburg
+91,2022,11,"2,727,119",National Gallery,1024,London
+92,2022,12,"2,651,688",State Russian Museum,1011,St Petersburg
+93,2022,13,"2,456,724",Museo Nacional del Prado,1014,Madrid
+94,2022,14,"2,370,261",Victoria and Albert Museum,1013,London
+95,2022,15,"2,346,580",Somerset House,,London
+96,2022,16,"2,222,692",Galleria degli Uffizi,,Florence
+97,2022,17,"2,190,440",Museum of Modern Art (MoMA),1023,New York
+98,2022,18,"2,034,331",M+,,Hong Kong
+99,2022,19,"1,973,751",National Museum of Scotland,1017,Edinburgh
+100,2022,20,"1,910,000",State Tretyakov Gallery,,Moscow
+101,2023,1,"8,860,000",Musée du Louvre,1001,Paris
+102,2023,2,"6,764,858",Vatican Museums,1002,Vatican City
+103,2023,3,"5,820,860",British Museum,1003,London
+104,2023,4,"5,364,000",Metropolitan Museum of Art,1004,New York
+105,2023,5,"4,742,038",Tate Modern,1005,London
+106,2023,6,"4,180,285",National Museum of Korea,1008,Seoul
+107,2023,7,"3,871,498",Musée d'Orsay,1009,Paris
+108,2023,8,"3,829,812",National Gallery of Art,1007,"Washington, DC"
+109,2023,9,"3,337,550",Museo Nacional del Prado,1014,Madrid
+110,2023,10,"3,273,753",State Hermitage Museum,1012,St Petersburg
+111,2023,11,"3,110,000",Victoria and Albert Museum,1013,London
+112,2023,12,"3,096,508",National Gallery,1024,London
+113,2023,13,"2,900,000",State Russian Museum,1011,St Petersburg
+114,2023,14,"2,839,509",Museum of Modern Art (MoMA),1023,New York
+115,2023,15,"2,797,616",M+,,Hong Kong
+116,2023,16,"2,727,677",Somerset House,,London
+117,2023,17,"2,717,857",Galleria degli Uffizi,,Florence
+118,2023,18,"2,702,824",Rijksmuseum,,Amsterdam
+119,2023,19,"2,621,696",Centre Pompidou,1015,Paris
+120,2023,20,"2,561,000",Royal Wawel Castle,,Krakow
+121,2024,1,"8,737,050",Musée du Louvre,1001,Paris
+122,2024,2,"6,825,436",Vatican Museums,1002,Vatican City
+123,2024,3,"6,479,952",British Museum,1003,London
+124,2024,4,"5,727,258",Metropolitan Museum of Art,1004,New York
+125,2024,5,"4,603,025",Tate Modern,1005,London
+126,2024,6,"4,234,046",Shanghai Museum East,1006,Shanghai
+127,2024,7,"3,936,543",National Gallery of Art,1007,"Washington, DC"
+128,2024,8,"3,788,785",National Museum of Korea,1008,Seoul
+129,2024,9,"3,751,141",Musée d'Orsay,1009,Paris
+130,2024,10,"3,700,000",Museo Nacional de Antropología,1010,Mexico City
+131,2024,11,"3,611,899",State Russian Museum,1011,St Petersburg
+132,2024,12,"3,563,590",State Hermitage Museum,1012,St Petersburg
+133,2024,13,"3,525,700",Victoria and Albert Museum,1013,London
+134,2024,14,"3,457,057",Museo Nacional del Prado,1014,Madrid
+135,2024,15,"3,204,369",Centre Pompidou,1015,Paris
+136,2024,16,"3,203,451",National Gallery,1024,London
+137,2024,17,"3,100,000",Royal Wawel Castle,,Krakow
+138,2024,18,"3,074,736",Somerset House,,London
+139,2024,19,"2,908,828",Galleria degli Uffizi,,Florence
+140,2024,20,"2,657,377",Museum of Modern Art (MoMA),1023,New York
