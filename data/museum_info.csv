@@ -1,0 +1,22 @@
+id,museum,country,city,total_area_sqm,collection_size,num_employees,admission_free_yn,adult_price_local,adult_price_local_usd,has_dual_pricing,foreign_price_usd,price_change_history,latitude,longitude
+1001,Musée du Louvre,France,Paris,758000.0,615797.0,2213.0,N,EUR 22,25.52,Y,37.12,2017: EUR 15 → 2024: EUR 17→EUR 22 → 2026: EUR 32 (non-EU),48.8606,2.3376
+1002,Vatican Museums,Vatican City,Vatican City,55000.0,70000.0,700.0,N,EUR 20,23.2,N,23.2,2014: EUR 16 → 2024: EUR 17 → 2025: EUR 20,41.9068,12.4534
+1003,British Museum,United Kingdom,London,92000.0,8000000.0,1300.0,Y,GBP 0,0.0,N,0.0,Free since founding (special exhibitions charged),51.5194,-0.1269
+1004,Metropolitan Museum of Art,United States,New York,200000.0,2000000.0,2000.0,N,USD 30,30.0,Y,30.0,2011: $25 suggested → 2018: $25 mandatory (non-NY) → 2022: $30,40.7794,-73.9632
+1005,Tate Modern,United Kingdom,London,34500.0,70000.0,1200.0,Y,GBP 0,0.0,N,0.0,Free (special exhibitions GBP 10-25),51.5078,-0.0995
+1006,Shanghai Museum East,China,Shanghai,113000.0,147044.0,,N,CNY 0,0.0,N,0.0,Opened 2024 - Free,31.2195,121.54
+1007,National Gallery of Art,United States,Washington DC,120000.0,150000.0,1100.0,Y,USD 0,0.0,N,0.0,Free since founding (federal funding),38.8913,-77.023
+1008,National Museum of Korea,South Korea,Seoul,146766.0,420000.0,1180.0,Y,KRW 0,0.0,N,0.0,Free (special exhibitions charged separately),37.524,126.9799
+1009,Musée d'Orsay,France,Paris,57400.0,150000.0,700.0,N,EUR 16,18.56,N,18.56,2019: EUR 14 → 2022: EUR 16,48.86,2.3266
+1010,Museo Nacional de Antropología,Mexico,Mexico City,45000.0,600000.0,,N,MXN 90,5.4,Y,5.4,Free for Mexican nationals on Sundays,19.4261,-99.1861
+1011,State Russian Museum,Russia,St Petersburg,40000.0,400000.0,,N,RUB 500,5.5,Y,5.5,Dual pricing for foreigners,59.9386,30.3322
+1012,State Hermitage Museum,Russia,St Petersburg,233345.0,3000000.0,2500.0,N,RUB 500,5.5,Y,11.0,Foreigners: RUB 1000; Russians: RUB 500; Free 1st Thursday,59.9406,30.3136
+1013,Victoria and Albert Museum,United Kingdom,London,30000.0,2300000.0,900.0,Y,GBP 0,0.0,N,0.0,Free (special exhibitions GBP 12-20),51.4964,-0.172
+1014,Museo Nacional del Prado,Spain,Madrid,42000.0,35000.0,700.0,N,EUR 15,17.4,N,17.4,2015: EUR 14 → 2017: EUR 15,40.4137,-3.693
+1016,Tokyo National Museum,Japan,Tokyo,110000.0,120000.0,300.0,N,JPY 1000,6.58,N,6.58,2019: JPY 620 → 2024: JPY 1000,35.7188,139.7766
+1017,National Museum of Scotland,United Kingdom,Edinburgh,16000.0,12000000.0,600.0,Y,GBP 0,0.0,N,0.0,Free since 2001 (was charged before),55.9472,-3.1891
+1018,MMCA Seoul,South Korea,Seoul,52125.0,9500.0,230.0,N,KRW 4000,2.99,N,2.99,Varies by exhibition; permanent collection free,37.5785,126.98
+1019,Museum of New Zealand Te Papa Tongarewa,New Zealand,Wellington,36000.0,800000.0,500.0,Y,NZD 0,0.0,N,0.0,Free (special exhibitions NZD 20-25),-41.2905,174.782
+1020,Museo Egizio,Italy,Turin,10000.0,40000.0,250.0,N,EUR 15,17.4,N,17.4,2015: EUR 7.50 → 2024: EUR 15,45.0684,7.6843
+1023,Museum of Modern Art (MoMA),United States,New York,65800.0,200000.0,800.0,N,USD 30,30.0,N,30.0,2011: $25 -> 2023: $30,40.7614,-73.9776
+1024,National Gallery,United Kingdom,London,46396.0,2300.0,600.0,Y,GBP 0,0.0,N,0.0,Free since founding,51.5089,-0.1283

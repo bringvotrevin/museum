@@ -50,7 +50,7 @@ id,year,rank,total,museum,museum_id,city
 49,2020,9,"1,124,759",Metropolitan Museum of Art,1004,New York
 50,2020,10,"971,256",21st Century Museum of Contemporary Art,,Kanazawa
 51,2020,11,"968,604",State Hermitage Museum,1012,St Petersburg
-52,2020,12,"912,803",Centre Pompidou,1015,Paris
+52,2020,12,"912,803",Centre Pompidou,,Paris
 53,2020,13,"894,374",State Tretyakov Gallery,,Moscow
 54,2020,14,"872,240",Victoria and Albert Museum,1013,London
 55,2020,15,"867,274",Musée d'Orsay,1009,Paris
@@ -68,7 +68,7 @@ id,year,rank,total,museum,museum_id,city
 67,2021,7,"1,643,108",Museo Reina Sofía,,Madrid
 68,2021,8,"1,612,530",Vatican Museums,1002,Vatican City
 69,2021,9,"1,580,819",State Tretyakov Gallery,,Moscow
-70,2021,10,"1,501,040",Centre Pompidou,1015,Paris
+70,2021,10,"1,501,040",Centre Pompidou,,Paris
 71,2021,11,"1,327,120",British Museum,1003,London
 72,2021,12,"1,262,562",National Museum of Korea,1008,Seoul
 73,2021,13,"1,175,296",Museo Nacional del Prado,1014,Madrid
@@ -87,7 +87,7 @@ id,year,rank,total,museum,museum_id,city
 86,2022,6,"3,270,182",Musée d'Orsay,1009,Paris
 87,2022,7,"3,256,433",National Gallery of Art,1007,"Washington, DC"
 88,2022,8,"3,208,832",Metropolitan Museum of Art,1004,New York
-89,2022,9,"3,009,570",Centre Pompidou,1015,Paris
+89,2022,9,"3,009,570",Centre Pompidou,,Paris
 90,2022,10,"2,812,913",State Hermitage Museum,1012,St Petersburg
 91,2022,11,"2,727,119",National Gallery,1024,London
 92,2022,12,"2,651,688",State Russian Museum,1011,St Petersburg
@@ -117,7 +117,7 @@ id,year,rank,total,museum,museum_id,city
 116,2023,16,"2,727,677",Somerset House,,London
 117,2023,17,"2,717,857",Galleria degli Uffizi,,Florence
 118,2023,18,"2,702,824",Rijksmuseum,,Amsterdam
-119,2023,19,"2,621,696",Centre Pompidou,1015,Paris
+119,2023,19,"2,621,696",Centre Pompidou,,Paris
 120,2023,20,"2,561,000",Royal Wawel Castle,,Krakow
 121,2024,1,"8,737,050",Musée du Louvre,1001,Paris
 122,2024,2,"6,825,436",Vatican Museums,1002,Vatican City
@@ -133,9 +133,14 @@ id,year,rank,total,museum,museum_id,city
 132,2024,12,"3,563,590",State Hermitage Museum,1012,St Petersburg
 133,2024,13,"3,525,700",Victoria and Albert Museum,1013,London
 134,2024,14,"3,457,057",Museo Nacional del Prado,1014,Madrid
-135,2024,15,"3,204,369",Centre Pompidou,1015,Paris
+135,2024,15,"3,204,369",Centre Pompidou,,Paris
 136,2024,16,"3,203,451",National Gallery,1024,London
 137,2024,17,"3,100,000",Royal Wawel Castle,,Krakow
 138,2024,18,"3,074,736",Somerset House,,London
 139,2024,19,"2,908,828",Galleria degli Uffizi,,Florence
 140,2024,20,"2,657,377",Museum of Modern Art (MoMA),1023,New York
+141,2024,25,"2,436,368",Tokyo National Museum,1016,Tokyo
+142,2024,42,"1,655,834",MMCA Seoul,1018,Seoul
+143,2024,28,"2,314,974",National Museum of Scotland,1017,Edinburgh
+144,2024,72,"1,146,854",Museum of New Zealand Te Papa Tongarewa,1019,Wellington
+145,2024,80,"1,036,689",Museo Egizio,1020,Turin
