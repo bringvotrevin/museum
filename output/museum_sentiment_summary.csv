@@ -4,7 +4,7 @@ museum_id,avg_sentiment,avg_stars,review_count,positive_pct,negative_pct,id,muse
 1003,0.73,4.78,200,85.5,4.5,1003,British Museum,0.0,Y
 1004,0.7,4.9,200,84.0,6.0,1004,Metropolitan Museum of Art,30.0,N
 1005,0.72,4.45,200,84.0,8.5,1005,Tate Modern,0.0,Y
-1006,0.58,4.6,47,72.34,17.02,1006,Shanghai Museum East,0.0,N
+1006,0.57,4.59,46,71.74,17.39,1006,Shanghai Museum East,0.0,Y
 1007,0.82,4.88,199,89.45,2.51,1007,National Gallery of Art,0.0,Y
 1008,0.86,4.85,200,93.5,0.5,1008,National Museum of Korea,0.0,Y
 1009,0.61,4.84,200,78.5,6.0,1009,Musée d'Orsay,18.56,N

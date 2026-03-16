@@ -4,7 +4,7 @@ id,museum,country,city,total_area_sqm,collection_size,num_employees,admission_fr
 1003,British Museum,United Kingdom,London,92000.0,8000000.0,1300.0,Y,GBP 0,0.0,N,0.0,Free since founding (special exhibitions charged),51.5194,-0.1269
 1004,Metropolitan Museum of Art,United States,New York,200000.0,2000000.0,2000.0,N,USD 30,30.0,Y,30.0,2011: $25 suggested → 2018: $25 mandatory (non-NY) → 2022: $30,40.7794,-73.9632
 1005,Tate Modern,United Kingdom,London,34500.0,70000.0,1200.0,Y,GBP 0,0.0,N,0.0,Free (special exhibitions GBP 10-25),51.5078,-0.0995
-1006,Shanghai Museum East,China,Shanghai,113000.0,147044.0,,N,CNY 0,0.0,N,0.0,Opened 2024 - Free,31.2195,121.54
+1006,Shanghai Museum East,China,Shanghai,113000.0,147044.0,,Y,CNY 0,0.0,N,0.0,Opened 2024 - Free,31.2195,121.54
 1007,National Gallery of Art,United States,Washington DC,120000.0,150000.0,1100.0,Y,USD 0,0.0,N,0.0,Free since founding (federal funding),38.8913,-77.023
 1008,National Museum of Korea,South Korea,Seoul,146766.0,420000.0,1180.0,Y,KRW 0,0.0,N,0.0,Free (special exhibitions charged separately),37.524,126.9799
 1009,Musée d'Orsay,France,Paris,57400.0,150000.0,700.0,N,EUR 16,18.56,N,18.56,2019: EUR 14 → 2022: EUR 16,48.86,2.3266
