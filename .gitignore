@@ -1,1 +1,7 @@
 .DS_Store
+GEMINI.md
+
+**/deprecated_*
+output/final_pricing_strategy.md
+output/sentiment_result_without_text.csv
+
